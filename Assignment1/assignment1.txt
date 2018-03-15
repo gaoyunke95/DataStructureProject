@@ -1,0 +1,60 @@
+push 1
+push 2
+push 3
+push 4
+push 5
+push 6
+push 7
+push 8
+push 9
+push 10
+push 11
+push 12
+push 13
+push 14
+push 15
+size
+push 16
+size
+push 17
+top
+size
+pop
+top
+pop
+pop
+top
+pop
+pop
+pop
+is_empty
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+top
+size
+insert a
+insert b
+size
+top
+pop
+top
+pop
+is_empty
+pop
+push 123www.efhdsjjk.888
+top
+is_empty
+push a
+push c
+push iwantyou
+push 23
+size
